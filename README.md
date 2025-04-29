@@ -54,6 +54,4 @@ Healthtech app helping users find hospitals with the shortest ER wait
 🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-kchaou-59898113a/)  
 🌍 Based in Montréal | Fluent in 🇫🇷 & 🇬🇧  
 
----
 
-![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoubkx&show_icons=true&theme=radical)
