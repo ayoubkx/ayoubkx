@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ayoub Kchaou
 
-🎓 I'm a software Engineer graduated from Concordia University.
+🎓 I'm a Computer Engineer, graduated from Concordia University.
 I build scalable full-stack applications and machine learning solutions — especially in digital health, smart systems, and civic tech.
 
 ---
