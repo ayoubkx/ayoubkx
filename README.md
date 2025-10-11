@@ -13,7 +13,7 @@ I build scalable full-stack applications and machine learning solutions — espe
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**:  
 `Python` · `JavaScript/TypeScript` · `C#` · `Java` · `C/C++` · `SQL`
