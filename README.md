@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm Ayoub Kchaou
+#  I'm Ayoub Kchaou
 
-🎓 I'm a Computer Engineer, graduated from Concordia University.
+I'm a Computer Engineer, graduated from Concordia University.
 I build scalable full-stack applications and machine learning solutions — especially in digital health, smart systems, and civic tech.
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-- **🚗 [SwiftParker]** – A smart parking system integrating license plate recognition, sensors, and real-time updates using React Native, Firebase, and microcontrollers.
-- **🆘 [EmergQ]** – A mobile app that streamlines emergency room triage and displays real-time hospital wait times (technical co-founder).
+- **[SwiftParker]** – A smart parking system integrating license plate recognition, sensors, and real-time updates using React Native, Firebase, and microcontrollers.
+- **[EmergQ]** – A mobile app that streamlines emergency room triage and displays real-time hospital wait times (technical co-founder).
 
 
 ---
@@ -32,7 +32,7 @@ I build scalable full-stack applications and machine learning solutions — espe
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔹 [SwiftParker](#)
 A real-time smart parking solution
@@ -48,7 +48,7 @@ Healthtech app helping users find hospitals with the shortest ER wait
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 📧 [ayoub.kchaou@mail.concordia.ca](mailto:ayoub.kchaou@mail.concordia.ca)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-kchaou-59898113a/)  
